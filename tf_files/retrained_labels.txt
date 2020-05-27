@@ -1,0 +1,6 @@
+cardboard recyclable
+glass recyclable
+metal recyclable
+paper recyclable
+plastic recyclable
+trash recyclable
